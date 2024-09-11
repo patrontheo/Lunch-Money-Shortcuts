@@ -19,7 +19,7 @@ The API Key and Category ID are saved to iCloud storage and used for future runs
 
 
 #### How to get the category id for the Transfer category
-The 'add a transfer' shortcut will set as category the 'Payment, Transfer' category. For this it needs the correct category id.  
+The 'add a transfer' shortcut will set as category the 'Payment, Transfer' category. For this, it needs the correct category id.  
 To find the category ID:
 - Go to your categories page: https://my.lunchmoney.app/categories.
 - Click on the magnifier icon on the right side of the line of your transfer category.
