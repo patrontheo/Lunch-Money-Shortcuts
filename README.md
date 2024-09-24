@@ -11,7 +11,7 @@ The API Key and Category ID are saved to iCloud storage and used for future runs
   - Enter the amount.
   - Enter the payee.
     
-- Add a transfer ([link](https://www.icloud.com/shortcuts/2093785feb22458ab0e300e710e9238b)):
+- Add a transfer ([link](https://www.icloud.com/shortcuts/b689583b136c4e0a9b221db357c91d4a)):
   - Select the source account.
   - Select the destination account.
   - Enter the amount that will be debited on the source account.
